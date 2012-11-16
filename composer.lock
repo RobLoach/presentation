@@ -1,0 +1,30 @@
+{
+    "hash": "afce593790449318a8b39397b229fbe8",
+    "packages": [
+        {
+            "name": "seldaek/slippy",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git://github.com/Seldaek/slippy.git",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/Seldaek/slippy/zipball/master",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library",
+            "installation-source": "dist"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ]
+}
